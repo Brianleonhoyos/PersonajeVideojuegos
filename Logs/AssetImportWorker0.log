@@ -1,0 +1,263 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.0b12 (5f97ac28ace0) revision 6264748'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19044.1706; Version 2009; 64bit' Language: 'es' Physical Memory: 10187 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.0b12\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Brian León/Documents/ProyectosUnity/AnimacionPersonaje
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52775
+Successfully changed project path to: C:/Users/Brian León/Documents/ProyectosUnity/AnimacionPersonaje
+C:/Users/Brian León/Documents/ProyectosUnity/AnimacionPersonaje
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 110.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.0b12 (5f97ac28ace0)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.0b12/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Brian León/Documents/ProyectosUnity/AnimacionPersonaje/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 8 Graphics (ID=0x15d8)
+    Vendor:   ATI
+    VRAM:     5093 MB
+    Driver:   27.20.11044.5003
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.0b12/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.0b12/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.0b12/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56124
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.0b12/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003938 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 121.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.167 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006001 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.672 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 1.08 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2665 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.2 MB.
+System memory in use after: 98.4 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3116.
+Total: 5.654300 ms (FindLiveObjects: 0.427400 ms CreateObjectMapping: 0.172000 ms MarkObjects: 4.893200 ms  DeleteObjects: 0.159800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Personaje/Remy@Running.fbx
+  artifactKey: Guid(9bf4fad9c9158904fb7f4f0593f89bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje/Remy@Running.fbx using Guid(9bf4fad9c9158904fb7f4f0593f89bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4c682373663ee8a568d60696ee391b5') in 0.861370 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/Personaje/Remy.fbx
+  artifactKey: Guid(b12979cb9c1648f46b23092f116aada7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje/Remy.fbx using Guid(b12979cb9c1648f46b23092f116aada7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a66160a24ce299c690ff76b89108fbc') in 0.450756 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/Personaje/Remy@Happy Idle.fbx
+  artifactKey: Guid(6d9cfe75fa7978b4fae55722587c5ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje/Remy@Happy Idle.fbx using Guid(6d9cfe75fa7978b4fae55722587c5ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06feed5bf047c8a1ebf397b0516938a8') in 0.411858 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000573 seconds.
+  path: Assets/Personaje/Remy@Left Strafe.fbx
+  artifactKey: Guid(bfaf672077a28464299186868b1e085c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje/Remy@Left Strafe.fbx using Guid(bfaf672077a28464299186868b1e085c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f56d576819a4bcda717ddb5f9f30ccc5') in 0.459798 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 133.706907 seconds.
+  path: Assets/Personaje/Remy.fbx
+  artifactKey: Guid(b12979cb9c1648f46b23092f116aada7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje/Remy.fbx using Guid(b12979cb9c1648f46b23092f116aada7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76e85b670ab7ad609aebd9d6999ad743') in 0.272405 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Personaje/Remy@Running.fbx
+  artifactKey: Guid(9bf4fad9c9158904fb7f4f0593f89bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje/Remy@Running.fbx using Guid(9bf4fad9c9158904fb7f4f0593f89bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6d3b556f39348933e3e5291c298b8bf') in 0.214939 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Personaje/Remy@Happy Idle.fbx
+  artifactKey: Guid(6d9cfe75fa7978b4fae55722587c5ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje/Remy@Happy Idle.fbx using Guid(6d9cfe75fa7978b4fae55722587c5ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9148bf04e7cc799db4ad99385a5f16ee') in 0.199950 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Personaje/Remy@Left Strafe.fbx
+  artifactKey: Guid(bfaf672077a28464299186868b1e085c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje/Remy@Left Strafe.fbx using Guid(bfaf672077a28464299186868b1e085c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '027899702ab3063c78b37180bf24cd77') in 0.203231 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 49.698930 seconds.
+  path: Assets/Personaje/Remy@Happy Idle.fbx
+  artifactKey: Guid(6d9cfe75fa7978b4fae55722587c5ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje/Remy@Happy Idle.fbx using Guid(6d9cfe75fa7978b4fae55722587c5ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6826fbebe3c75cf933254847d8cc21d') in 0.267560 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Personaje/Remy@Running.fbx
+  artifactKey: Guid(9bf4fad9c9158904fb7f4f0593f89bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje/Remy@Running.fbx using Guid(9bf4fad9c9158904fb7f4f0593f89bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41abf77ccb7e422626b60133f1c9826a') in 0.201924 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Personaje/Remy@Left Strafe.fbx
+  artifactKey: Guid(bfaf672077a28464299186868b1e085c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje/Remy@Left Strafe.fbx using Guid(bfaf672077a28464299186868b1e085c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b9c4011ca2154289907334b1090b908') in 0.201319 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.271145 seconds.
+  path: Assets/Personaje/Remy@Happy Idle.fbx
+  artifactKey: Guid(6d9cfe75fa7978b4fae55722587c5ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje/Remy@Happy Idle.fbx using Guid(6d9cfe75fa7978b4fae55722587c5ef8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66b6de8ad99abc23fd3fbd2b7e147155') in 0.271464 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.210525 seconds.
+  path: Assets/Personaje/Remy@Left Strafe.fbx
+  artifactKey: Guid(bfaf672077a28464299186868b1e085c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje/Remy@Left Strafe.fbx using Guid(bfaf672077a28464299186868b1e085c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2b6b1d59e400bd2793bc458fe935045') in 0.265631 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.076304 seconds.
+  path: Assets/Personaje/Remy@Running.fbx
+  artifactKey: Guid(9bf4fad9c9158904fb7f4f0593f89bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje/Remy@Running.fbx using Guid(9bf4fad9c9158904fb7f4f0593f89bfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61645b178685ecee43a76ba60b2df75e') in 0.255625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 260.243931 seconds.
+  path: Assets/Codigos/LogicaPersonaje1.cs
+  artifactKey: Guid(d1b72984ec6eeb44da3d620fd3e23f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Codigos/LogicaPersonaje1.cs using Guid(d1b72984ec6eeb44da3d620fd3e23f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02ff9fb60a25ffa21209e69c89e92ec5') in 0.066018 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004254 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.395 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2660 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.3 MB.
+System memory in use after: 116.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3163.
+Total: 3.097400 ms (FindLiveObjects: 0.353100 ms CreateObjectMapping: 0.128900 ms MarkObjects: 2.545000 ms  DeleteObjects: 0.068600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 181.569603 seconds.
+  path: Assets/Personaje/Animaciones/Controlador Personaje 1.controller
+  artifactKey: Guid(f9f9c5aa68fb2164dbee42463155790e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje/Animaciones/Controlador Personaje 1.controller using Guid(f9f9c5aa68fb2164dbee42463155790e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd05d570b1ad82da5ed5a950cd90f298b') in 0.059555 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 169.992843 seconds.
+  path: Assets/Personaje/Left Strafe.anim
+  artifactKey: Guid(bcdee7cecdd5bbb4fb152eade0333721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje/Left Strafe.anim using Guid(bcdee7cecdd5bbb4fb152eade0333721) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '152e47f02b45a0976228ab2dc90d7f88') in 0.054416 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.154852 seconds.
+  path: Assets/Personaje/Running.anim
+  artifactKey: Guid(4595cbeda0d61eb4a868acd9e9b5a90e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje/Running.anim using Guid(4595cbeda0d61eb4a868acd9e9b5a90e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd87fa37f0082dd574bdf4730ee2524c') in 0.045664 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.730402 seconds.
+  path: Assets/Personaje/Happy Idle.anim
+  artifactKey: Guid(1240c7f4d5bc66c4e822a229dfae7eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Personaje/Happy Idle.anim using Guid(1240c7f4d5bc66c4e822a229dfae7eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3ec2c25c9156fc3ecc304d2406460dc') in 0.070942 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008915 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.886 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.90 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2660 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.4 MB.
+System memory in use after: 116.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3166.
+Total: 3.253600 ms (FindLiveObjects: 0.497300 ms CreateObjectMapping: 0.293900 ms MarkObjects: 2.385900 ms  DeleteObjects: 0.074400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005725 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.199 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2660 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.4 MB.
+System memory in use after: 116.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3169.
+Total: 5.541500 ms (FindLiveObjects: 0.404100 ms CreateObjectMapping: 0.621200 ms MarkObjects: 4.440700 ms  DeleteObjects: 0.073600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009952 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.660 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.13 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2660 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.4 MB.
+System memory in use after: 116.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3172.
+Total: 9.981200 ms (FindLiveObjects: 1.085900 ms CreateObjectMapping: 0.707600 ms MarkObjects: 8.059000 ms  DeleteObjects: 0.122900 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
